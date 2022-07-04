@@ -6,6 +6,7 @@
  * stored in the variable n
  * Return: Always 0 (Successful)
  */
+
 int main(void)
 {
 	int n;
