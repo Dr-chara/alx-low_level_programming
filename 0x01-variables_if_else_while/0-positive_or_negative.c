@@ -7,7 +7,7 @@
 /**
  * main - assigns a random number to the value of n
  * it executes and prints it
- * Return: 0 if error
+ * Return: 0 if successful
 */
 
 int main(void)
@@ -26,7 +26,7 @@ int main(void)
 						printf("%d is positive\n", n);
 					else if (n == 0)
 						printf("%d is zero\n", n);
-					else if
+					else if (n < 0)
 						printf("%d is negative\n", n);
 
 					return (0);
