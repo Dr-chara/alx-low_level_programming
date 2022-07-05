@@ -17,7 +17,7 @@ int main(void)
 
 	{
 
-		iputchar(n);
+		putchar(n);
 
 		n += 1;
 
