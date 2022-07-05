@@ -22,7 +22,9 @@ int main(void)
 		n += 1;
 
 	}
-	putchar("\n");
+
+	printf("\n");
+
 	return (0);
 
 }
